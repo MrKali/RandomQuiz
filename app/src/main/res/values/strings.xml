@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="quiz">Quiz</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="option">Option</string>
+    <string name="next_question">Next Question</string>
+    <string name="question">Question</string>
+    <string name="score">score</string>
+    <string name="_0_points">0 points</string>
+    <string name="details">Details</string>
+    <string name="time_details">Time details</string>
+    <string name="again">Again</string>
+    <string name="results">Results</string>
+</resources>
