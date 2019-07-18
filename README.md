@@ -6,3 +6,6 @@ Features:
     - Time for each question
     - Total time used in Quiz
     - Points winned ( 400 per right answer, -100 per wrong answer).
+
+
+![alt text](https://github.com/MrKali/RandomQuiz/blob/master/app/src/main/res/drawable/demo.png)
